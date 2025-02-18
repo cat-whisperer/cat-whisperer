@@ -1,5 +1,6 @@
 ## why are you here
-🔭 telescope 
+🔭 telescope tehe
+currently within the class known as ICS3UR
 <!--
 **cat-whisperer/cat-whisperer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
